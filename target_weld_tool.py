@@ -1,5 +1,8 @@
 bl_info = {
     "name": "Target Weld Tool",
+    "description":"Drag a vertex to merge it to the second vertex",
+    "author": "Justin Graham",
+    "location": "View3D > Vertex",
     "blender": (2,80,0),
     "category": "Mesh"
 }
